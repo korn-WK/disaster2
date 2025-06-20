@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.3.47",
+    "@pinecone-database/pinecone": "^6.1.1"
+  }
+}
